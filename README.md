@@ -9,5 +9,5 @@ Checking how electric field falls off from various scenarios.
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-jupyter notebook
+./venv/bin/jupyter-notebook
 ```
